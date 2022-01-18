@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Jdir-wsp
+   host: jdir-wsp
+   memory: 512M
