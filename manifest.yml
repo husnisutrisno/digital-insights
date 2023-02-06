@@ -1,5 +1,5 @@
 ---
 applications:
- - name: Jdir-wsp
-   host: jdir-wsp
+ - name: Digital Insight WSP
+   host: digital-insights-wsp
    memory: 512M
